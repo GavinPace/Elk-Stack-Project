@@ -92,5 +92,5 @@ SSH into the control node and follow the steps below:
 - Copy the yaml file to etc/ansible.
 - Update the config file to include host IP addresses
 - Run the playbook, and navigate to http://20.213.250.195:5601/app/kibana to check that the installation worked as expected.
-
+.
 
